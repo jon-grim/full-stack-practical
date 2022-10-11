@@ -3,7 +3,7 @@
     <div>
       <div class="flex gap-2 mb-2 items-center">
         <p>Filter guests by</p>
-        <select class="border rounded-lg border-rose-300 text-center">
+        <select class="border rounded-lg border-slate-300 text-center">
           <option>visit count</option>
           <option>lifetime spend</option>
         </select>
